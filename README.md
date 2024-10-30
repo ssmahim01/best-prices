@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # Live Link
 
-[Live by Surge](https://best-pr.surge.sh/)
+**Live by Surge:** https://best-pr.surge.sh/
